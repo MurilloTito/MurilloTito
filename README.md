@@ -1,4 +1,4 @@
-# Hi there 👋, I am Murillo and I study at UNICAMP (State University of Campinas)
+# Hi there 👋, I am Murillo, I have 21 years old and I study at UNICAMP (State University of Campinas)
 
 <!--
 **MurilloTito/MurilloTito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
